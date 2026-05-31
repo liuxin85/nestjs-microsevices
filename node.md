@@ -14,3 +14,6 @@ docker exec -it redis redis-cli
 SET mykey "hello redis"
 
 GET mykey
+
+----
+npm  i ioredis
