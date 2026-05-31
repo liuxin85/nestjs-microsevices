@@ -17,3 +17,7 @@ GET mykey
 
 ----
 npm  i ioredis
+
+---
+127.0.0.1:6370> MONITOR
+OK
